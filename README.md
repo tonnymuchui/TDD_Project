@@ -204,6 +204,11 @@ Example:
 - GitHub: [@tonnymuchui](https://github.com/tonnymuchui)
 - Twitter: [@Tonnymuchui6](https://twitter.com/Tonnymuchui6)
 - LinkedIn: [Tonny Muchui](https://www.linkedin.com/in/tonny-muchui-murungi-9b549a174/)
+  
+  ### 👤 **Fahim Khan**:
+- GitHub: [Fahim-Khan-P](https://github.com/Fahim-Khan-P/)
+- LinkedIn: [Fahim Khan](https://www.linkedin.com/in/fahimkhan-p/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

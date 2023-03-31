@@ -17,13 +17,13 @@ describe Solver do
     it 'Return an error if a negative number is used' do
       expect { @solver.factorial(-1) }.to(raise_error(StandardError))
     end
-    end
+  end
 
-    describe 'Reverse word' do
-      it 'returns the reverse of a word' do
-        expect(@solver.reverse('hello')).to eq('olleh')
-      end
+  describe 'Reverse word' do
+    it 'returns the reverse of a word' do
+      expect(@solver.reverse('hello')).to eq('olleh')
     end
+  end
   describe 'fizzbuzz' do
     it 'should return fizzbuzz when number is divisible by 3 and 5' do
       expect(@solver.fizzbuzz(30)).to eq('fizzbuzz')
@@ -41,4 +41,4 @@ describe Solver do
       expect(@solver.fizzbuzz(7)).to eq('7')
     end
   end
-  end
+end
